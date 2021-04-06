@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Online Friendly Notepad</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="action_logout">logout</string>
+    <string name="minimum_password">Enter 6 or more characters</string>
+    <string name="notes_empty">Notes Empty</string>
+    <string name="connection_instructions">Tab (+) to add new notes</string>
+    <string name="document_icon">document icon</string>
+    <string name="action_save_notes">save</string>
+    <string name="favourite_icon">favourite icon</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="banner_ad_unit_id_on_notes">ca-app-pub-3940256099942544/6300978111</string>
+</resources>
