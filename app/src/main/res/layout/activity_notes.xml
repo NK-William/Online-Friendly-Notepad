@@ -5,8 +5,8 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     xmlns:ads="http://schemas.android.com/apk/res-auto"
-    android:padding="8dp"
-    android:background="#6C507F"
+    android:padding="0dp"
+    android:background="#341B45"
     tools:context=".NotesActivity">
 
     <EditText
@@ -31,7 +31,7 @@
         android:id="@+id/notes_view"
         android:layout_width="0dp"
         android:layout_height="0dp"
-        android:layout_marginTop="2dp"
+        android:layout_marginTop="1dp"
         android:background="#240936"
         android:ems="10"
         android:layout_marginBottom="1dp"
